@@ -12,5 +12,16 @@ public void createCustomer()
 {
 	Reporter.log("bangalore",true);
 	
+	
+	
+}
+
+
+public void addCustomer()
+{
+	Reporter.log("Mangalore",true);
+	
+	
+	
 }
 }
